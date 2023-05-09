@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/smitabose1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smitabose1289" height="30" width="40" /></a>
+<a href="https://twitter.com/smitabose_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smitabose_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/smita-bose-25b3b0192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/smita-bose-25b3b0192/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/smita1289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/smita1289" height="30" width="40" /></a>
 <a href="https://instagram.com/nishikabose.z" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishikabose.z" height="30" width="40" /></a>
