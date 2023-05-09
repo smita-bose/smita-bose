@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smita Bose</h1>
-<h3 align="center">A passionate frontend developer and ML engineering student from India</h3>
+<h3 align="center">A passionate frontend developer and ML engineering student from India. I'm curretly doing Intership in Test Automation using Java and Selenium at EPAM</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smitabose0&label=Profile%20views&color=0e75b6&style=flat" alt="smitabose0" /> </p>
 
